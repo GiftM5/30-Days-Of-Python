@@ -23,3 +23,12 @@ name = "Mpho"
 surname = "Mofokeng"
 country = "South Africa"
 print(name, "\n",surname,"\n",country,"\n","I am enjoying 30 days of python")
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type("MPHO"))
+print(type("MOFOKENG"))
+print(type("South Africa"))
