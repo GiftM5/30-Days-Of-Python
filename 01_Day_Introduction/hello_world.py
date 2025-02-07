@@ -17,10 +17,9 @@ def exponential():
 def floor_division_operator():
     print(a//b)
 
-add()
-subtraction()
-multiplication()
-modulus()
-division()
-exponential()
-floor_division_operator()
+#EXERCISE 2
+
+name = "Mpho"
+surname = "Mofokeng"
+country = "South Africa"
+print(name, "\n",surname,"\n",country,"\n","I am enjoying 30 days of python")
