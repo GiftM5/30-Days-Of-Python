@@ -32,3 +32,14 @@ print(type(['Asabeneh', 'Python', 'Finland']))
 print(type("MPHO"))
 print(type("MOFOKENG"))
 print(type("South Africa"))
+
+#Exercize level 3
+#Finding a eucledian distance between two points 
+#Eucledian distance can be found using pythagorus theorem 
+# pythagorus theorem says that r =x**2 +y**2 +so how to go about it is:
+
+def pythagorus_theorem(x,y):
+    distance = y**2 +x**2
+    return distance
+print(pythagorus_theorem(2,3)) 
+print(pythagorus_theorem(10,8))
